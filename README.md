@@ -5,6 +5,10 @@
 ### Навигация
 - **Старт**: [Установка Go и настройка VS Code](getting-started/README.md)
 - **База языка**: [Основы Go](basics/README.md)
+  - [Переменные](basics/Переменные/README.md)
+  - [Условия](basics/Условия/README.md)
+  - [Циклы](basics/Циклы/README.md)
+  - [Функции](basics/Функции/README.md)
 - **Примеры**: [Небольшие проекты и скрипты](examples/README.md)
 
 ### Как начать
