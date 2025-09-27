@@ -9,7 +9,7 @@
   - [Условия](basics/Условия/README.md)
   - [Циклы](basics/Циклы/README.md)
   - [Функции](basics/Функции/README.md)
-- **Примеры**: [Небольшие проекты и скрипты](examples/README.md)
+- **Задачки**: [Легкие задачки для закрепления знаний](examples/README.md)
 
 ### Дорожная карта (уровни)
 - Старт: установка и VS Code — `getting-started/README.md`
